@@ -71,7 +71,9 @@ export default {
         { title: "Detail", to: "/detail" },
         { title: "Newsletter", to: "/newsletter" }
       ],
-      rightItems: [{ title: "Free Download", href: "https://github.com" }]
+      rightItems: [
+        { title: "Free Download", href: "https://github.com/AGDholo/swallow" }
+      ]
     };
   }
 };
